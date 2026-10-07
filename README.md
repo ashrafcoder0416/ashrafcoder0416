@@ -1,10 +1,11 @@
-Hey, I'm Mohd Ashraf 👋
+# Hi, I'm Mohd Ashraf 👋
 
-🎓 B.Tech CSE — Data Science
-📊Aspiring Data Analyst → Data Scientist 
+### Data Science Student | Aspiring Data Analyst → Data Scientist
+
+🎓 B.Tech Computer Science Engineering — Data Science  
 📍 Hyderabad, India 🇮🇳
 
-I’m a Computer Science student specializing in Data Science, interested in turning raw data into meaningful insights and building data-driven solutions.
+I’m passionate about exploring data, finding meaningful insights, and building practical data-driven solutions.
 
 
 🛠️ Tech Stack
